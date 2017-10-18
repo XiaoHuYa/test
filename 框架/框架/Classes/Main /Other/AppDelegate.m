@@ -23,7 +23,7 @@
 
 @implementation AppDelegate
 
-
+//////-------------------
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     //1.创建窗口
